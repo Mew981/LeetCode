@@ -4,7 +4,7 @@ class Solution:
         right = len(nums) - 1
 
         while left <= right:
-            mid = left + (right - left) // 2
+            mid = (left + right) // 2
 
             if nums[mid] == target:
                 return mid
@@ -15,3 +15,4 @@ class Solution:
                 
 
         return -1
+        #4 + (6 - 4) = 6 // 2 = 3
