@@ -9,14 +9,16 @@ class Solution:
             else:
                 if not a:
                     return False
-                t = a.pop() #t=opening bracket and a should be empty
-                if s[i] == ")" and t != "(":
+                top = a.pop()
+                if s[i] == ")" and top!= "(":
                     return False
-                if s[i] == "]" and t != "[":
+                if s[i] == "]" and top!= "[":
                     return False
-                if s[i] == "}" and t != "{":
+                if s[i] == "}" and top!= "{":
                     return False
         return len(a) == 0
+
+
         
 
 
