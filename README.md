@@ -9,9 +9,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 3 | 2 | 1 | 0 |
+| LeetCode | 4 | 2 | 2 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **3** | **2** | **1** | **0** |
+| **Total** | **4** | **2** | **2** | **0** |
 
 ## Solved Problems
 
@@ -19,5 +19,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/125_ValidPalindrome.py) |
 | 2 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/836_RectangleOverlap.py) |
-| 3 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/167_TwoSumIIInputArrayIsSorted.py) |
+| 3 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/11_ContainerWithMostWater.py) |
+| 4 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/167_TwoSumIIInputArrayIsSorted.py) |
 <!-- COMMITDSA_END -->
